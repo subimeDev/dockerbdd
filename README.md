@@ -8,14 +8,14 @@ Funciona perfecto tanto en Linux (Kali, Ubuntu, Debian) como en Windows con WSL 
 ---
 
 ## 🚀 Estructura del proyecto
-
+---
 lab/
 ├─ docker-compose.yml
 └─ app/
 ├─ app.py
 ├─ Dockerfile
 └─ requirements.txt
-
+---
 
 
 ---
